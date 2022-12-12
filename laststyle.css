@@ -1,0 +1,17 @@
+body{ background-color: blanchedalmond;
+font-size: 30px;
+
+}
+.cap{text-align: center;}
+.box{
+    height: 300px; 
+    width: 300px;
+    background-color: beige;
+    box-shadow: 2px 2px 20px black;
+    color: dimgray;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 300px;
+    text-align: center;
+}

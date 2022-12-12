@@ -1,0 +1,9 @@
+h1{background-color: black;}
+h1{color: white;text-align: center;}
+.name{background-color: beige;}
+.name{color: black; text-align: left;}
+.img1{width: 200px; height: 200px; background-color: beige;}
+.main{
+    height: 50vh;
+    background-color: red;
+}
